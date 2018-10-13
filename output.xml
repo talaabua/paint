@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="640" height="480" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="387" width="640" height="95" style="fill:rgb(0,255,0);stroke-width:1;stroke:rgb(0,255,0)"/>
+<circle cx="12" cy="9" r="120" style="fill:rgb(255,255,0);stroke-width:2;stroke:rgb(255,255,0)"/>
+<circle cx="352" cy="240" r="4" style="fill:rgb(255,0,0);stroke-width:2;stroke:rgb(255,0,0)"/>
+<rect x="340" y="219" width="29" height="30" style="fill:rgb(255,0,0);stroke-width:1;stroke:rgb(255,0,0)"/>
+<rect x="323" y="208" width="63" height="49" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(255,255,255)"/>
+<rect x="345" y="258" width="179" height="129" style="fill:rgb(255,0,0);stroke-width:1;stroke:rgb(255,0,0)"/>
+<rect x="337" y="243" width="0" height="0" style="fill:rgb(0,0,0);stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="327" y="226" width="212" height="37" style="fill:rgb(0,0,0);stroke-width:1;stroke:rgb(0,0,0)"/>
+<rect x="364" y="310" width="48" height="77" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(255,255,255)"/>
+<rect x="448" y="311" width="49" height="40" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(255,255,255)"/>
